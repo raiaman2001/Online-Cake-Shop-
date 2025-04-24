@@ -21,5 +21,5 @@ Order status updates and notifications
 
 🛠️ Tech Stack
 
-Frontend: React.js / Vue.js / HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript
 
